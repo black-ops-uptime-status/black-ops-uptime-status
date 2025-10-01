@@ -26,4 +26,6 @@ Conclusion
 
 Keeping track of Black Ops uptime status helps users maintain seamless activity and avoid disruptions.
 
-Update:  09/18/2025 TOR URL corrections
+
+
+Update:  01 October 2025
